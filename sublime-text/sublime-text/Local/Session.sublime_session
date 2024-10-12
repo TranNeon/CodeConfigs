@@ -1,0 +1,883 @@
+{
+	"file_history":
+	[
+		"/home/neon/code/NMTH1/BT2/main_02.cpp",
+		"/home/neon/.config/sublime-text/Packages/User/C++-competitive-single.sublime-build",
+		"/home/neon/.config/sublime-text/Packages/User/C++-debug-manyFiles.sublime-build",
+		"/home/neon/code/NMTH1/BT1/23127302_01.cpp",
+		"/home/neon/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/neon/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/neon/.config/sublime-text/Packages/Package Control/Package Control.sublime-settings",
+		"/home/neon/.config/sublime-text/Packages/User/Package Control.sublime-settings",
+		"/home/neon/code/zip-cpp-files.sh",
+		"/home/neon/code/NMTH1/BT8/output.out",
+		"/home/neon/code/NMTH1/BT8/input.in",
+		"/home/neon/code/NMTH1/BT8/main.cpp",
+		"/home/neon/code/NMTH1/BT3/main03.cpp",
+		"/home/neon/code/NMTH1/BT6/main.cpp",
+		"/home/neon/code/NMTH1/BT7/output.out",
+		"/home/neon/code/NMTH1/BT7/input.in",
+		"/home/neon/code/NMTH1/BT7/main.cpp",
+		"/home/neon/code/NMTH1/BT6/output.out",
+		"/home/neon/code/NMTH1/BT6/input.in",
+		"/home/neon/code/NMTH1/BT5/output.out",
+		"/home/neon/code/NMTH1/BT5/input.in",
+		"/home/neon/code/NMTH1/BT4/main.cpp",
+		"/home/neon/code/NMTH1/BT4/output.out",
+		"/home/neon/code/NMTH1/BT4/input.in",
+		"/home/neon/code/NMTH1/BT4/main04.cpp",
+		"/home/neon/code/LT2/practice2.1/input.in",
+		"/home/neon/code/LT2/practice2.1/output.out",
+		"/home/neon/code/LT2/practice2.1/23127302_Ex31.cpp",
+		"/home/neon/code/LT2/practice2.1/Fraction.h",
+		"/home/neon/code/LT2/practice2.2/output.out",
+		"/home/neon/code/LT2/practice2.2/input.in",
+		"/home/neon/code/LT2/practice2.2/23127302_Ex32.cpp",
+		"/home/neon/code/LT2/practice2.2/Monomial.h",
+		"/home/neon/code/LT2/practice2.4/output.out",
+		"/home/neon/code/LT2/practice2.4/input.in",
+		"/home/neon/code/LT2/practice2.4/Array.h",
+		"/home/neon/code/LT2/practice2.4/23127302_Ex24.cpp",
+		"/home/neon/code/LT2/practice2.3/23127302_Ex23.cpp",
+		"/home/neon/code/LT2/practice2.2/23127302_Ex22.cpp",
+		"/home/neon/code/LT2/practice2.2/Student.h",
+		"/home/neon/code/output.out",
+		"/home/neon/code/input.in",
+		"/home/neon/code/bug.cpp",
+		"/home/neon/.config/sublime-text/Packages/User/Plain text.sublime-settings",
+		"/home/neon/.config/sublime-text/Packages/Default/Distraction Free.sublime-settings",
+		"/home/neon/.config/sublime-text/Packages/User/Distraction Free.sublime-settings",
+		"/home/neon/.config/sublime-text/Packages/User/untitled.sublime-build"
+	],
+	"folder_history":
+	[
+		"/home/neon/code/NMTH1",
+		"/home/neon/code/LT2",
+		"/home/neon/code/LT2/practice2.2"
+	],
+	"last_version": 4180,
+	"last_window_id": 9,
+	"log_indexing": false,
+	"next_update_check": 1728783554,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			70.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"file",
+						"file_name"
+					],
+					[
+						"out",
+						"output_name"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/User/C++-debug-manyFiles.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++-debug-manyFiles.sublime-build",
+							"Variant Run"
+						]
+					],
+					[
+						"Packages/User/C++-debug-manyFiles.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/C++ByGOG.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ByGOG.sublime-build",
+							"Variant Run"
+						]
+					],
+					[
+						"Packages/User/C++ByGOG.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"build va",
+						"Build With: C++-debug-manyFiles - Variant Run"
+					],
+					[
+						"build ",
+						"Build With: C++-debug-manyFiles - Variant Run"
+					],
+					[
+						"renmae",
+						"File: Rename File"
+					],
+					[
+						"renam",
+						"File: Rename File"
+					],
+					[
+						"rename",
+						"File: Rename File"
+					],
+					[
+						"new nbui",
+						"Build: New Build System"
+					],
+					[
+						" pack ",
+						"Package Control: Install Package"
+					],
+					[
+						"package Control install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Discover Packages"
+					],
+					[
+						"close",
+						"File: Close All"
+					],
+					[
+						"file close all",
+						"File: Close All"
+					],
+					[
+						" close all",
+						"File: Close All"
+					],
+					[
+						"close all ",
+						"File: Close All"
+					],
+					[
+						"project",
+						"Project: Save As"
+					],
+					[
+						"closeAll",
+						"File: Close All"
+					],
+					[
+						"ren",
+						"File: Rename File"
+					],
+					[
+						"renma",
+						"File: Rename File"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"close ",
+						"File: Close All"
+					],
+					[
+						"side bar",
+						"View: Toggle Side Bar"
+					],
+					[
+						"view ",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"toggle open",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"file view",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"build",
+						"Build With: C++ Single File"
+					],
+					[
+						"open",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"browse",
+						"Preferences: Browse Packages"
+					],
+					[
+						"Set Syntax: C++",
+						"Set Syntax: C++"
+					],
+					[
+						"package ",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 150.0,
+				"history":
+				[
+					"$pwd",
+					"ls",
+					"echo {pwd}",
+					"pwd",
+					"cd ${pwd}",
+					"where",
+					"whereami",
+					"cd .config",
+					"cd ./config/sublime-text",
+					"pwd"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/neon/code/NMTH1/BT2/main_02.cpp",
+				"/home/neon/.config/sublime-text/Packages/User/C++-competitive-single.sublime-build",
+				"/home/neon/.config/sublime-text/Packages/User/C++-debug-manyFiles.sublime-build",
+				"/home/neon/code/NMTH1/BT1/23127302_01.cpp",
+				"/home/neon/code/zip-cpp-files.sh",
+				"/home/neon/code/NMTH1/BT8/output.out",
+				"/home/neon/code/NMTH1/BT8/input.in",
+				"/home/neon/code/NMTH1/BT8/main.cpp",
+				"/home/neon/code/NMTH1/BT3/main03.cpp",
+				"/home/neon/code/NMTH1/BT6/main.cpp",
+				"/home/neon/code/NMTH1/BT7/output.out",
+				"/home/neon/code/NMTH1/BT7/input.in",
+				"/home/neon/code/NMTH1/BT7/main.cpp",
+				"/home/neon/code/NMTH1/BT6/output.out",
+				"/home/neon/code/NMTH1/BT6/input.in",
+				"/home/neon/code/NMTH1/BT5/output.out",
+				"/home/neon/code/NMTH1/BT5/input.in",
+				"/home/neon/code/NMTH1/BT4/main.cpp",
+				"/home/neon/code/NMTH1/BT4/output.out",
+				"/home/neon/code/NMTH1/BT4/input.in",
+				"/home/neon/code/NMTH1/BT4/main04.cpp",
+				"/home/neon/code/LT2/practice2.1/input.in",
+				"/home/neon/code/LT2/practice2.1/output.out",
+				"/home/neon/code/LT2/practice2.1/23127302_Ex31.cpp",
+				"/home/neon/code/LT2/practice2.1/Fraction.h",
+				"/home/neon/code/LT2/practice2.2/output.out",
+				"/home/neon/code/LT2/practice2.2/input.in",
+				"/home/neon/code/LT2/practice2.2/23127302_Ex32.cpp",
+				"/home/neon/code/LT2/practice2.2/Monomial.h",
+				"/home/neon/code/LT2/practice2.4/output.out",
+				"/home/neon/code/LT2/practice2.4/input.in",
+				"/home/neon/code/LT2/practice2.4/Array.h",
+				"/home/neon/code/LT2/practice2.4/23127302_Ex24.cpp",
+				"/home/neon/code/LT2/practice2.3/23127302_Ex23.cpp",
+				"/home/neon/code/LT2/practice2.2/23127302_Ex22.cpp",
+				"/home/neon/code/LT2/practice2.2/Student.h",
+				"/home/neon/code/output.out",
+				"/home/neon/code/input.in",
+				"/home/neon/code/bug.cpp",
+				"/home/neon/.config/sublime-text/Packages/User/untitled.sublime-build"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/C++-debug-manyFiles.sublime-build",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"output.out"
+					],
+					[
+						"23",
+						"23127302_Ex22.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"file",
+						"file_name"
+					],
+					[
+						"out",
+						"output_name"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "Packages/User/C++-debug-manyFiles.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/User/C++-debug-manyFiles.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++-debug-manyFiles.sublime-build",
+							"Variant Run"
+						]
+					],
+					[
+						"Packages/User/C++-debug-manyFiles.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/C++ByGOG.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ByGOG.sublime-build",
+							"Variant Run"
+						]
+					],
+					[
+						"Packages/User/C++ByGOG.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"build va",
+						"Build With: C++-debug-manyFiles - Variant Run"
+					],
+					[
+						"build ",
+						"Build With: C++-debug-manyFiles - Variant Run"
+					],
+					[
+						"renmae",
+						"File: Rename File"
+					],
+					[
+						"renam",
+						"File: Rename File"
+					],
+					[
+						"rename",
+						"File: Rename File"
+					],
+					[
+						"new nbui",
+						"Build: New Build System"
+					],
+					[
+						" pack ",
+						"Package Control: Install Package"
+					],
+					[
+						"package Control install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Discover Packages"
+					],
+					[
+						"close",
+						"File: Close All"
+					],
+					[
+						"file close all",
+						"File: Close All"
+					],
+					[
+						" close all",
+						"File: Close All"
+					],
+					[
+						"close all ",
+						"File: Close All"
+					],
+					[
+						"project",
+						"Project: Save As"
+					],
+					[
+						"closeAll",
+						"File: Close All"
+					],
+					[
+						"ren",
+						"File: Rename File"
+					],
+					[
+						"renma",
+						"File: Rename File"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"close ",
+						"File: Close All"
+					],
+					[
+						"side bar",
+						"View: Toggle Side Bar"
+					],
+					[
+						"view ",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"toggle open",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"file view",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"build",
+						"Build With: C++ Single File"
+					],
+					[
+						"open",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"browse",
+						"Preferences: Browse Packages"
+					],
+					[
+						"Set Syntax: C++",
+						"Set Syntax: C++"
+					],
+					[
+						"package ",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 150.0,
+				"history":
+				[
+					"$pwd",
+					"ls",
+					"echo {pwd}",
+					"pwd",
+					"cd ${pwd}",
+					"where",
+					"whereami",
+					"cd .config",
+					"cd ./config/sublime-text",
+					"pwd"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/neon/code/NMTH1",
+				"/home/neon/code/NMTH1/BT1",
+				"/home/neon/code/NMTH1/BT2",
+				"/home/neon/code/NMTH1/BT3",
+				"/home/neon/code/NMTH1/BT4",
+				"/home/neon/code/NMTH1/BT5",
+				"/home/neon/code/NMTH1/BT6",
+				"/home/neon/code/NMTH1/BT7",
+				"/home/neon/code/NMTH1/BT8"
+			],
+			"file_history":
+			[
+				"/home/neon/code/NMTH1/BT2/main_02.cpp",
+				"/home/neon/.config/sublime-text/Packages/User/C++-competitive-single.sublime-build",
+				"/home/neon/.config/sublime-text/Packages/User/C++-debug-manyFiles.sublime-build",
+				"/home/neon/code/NMTH1/BT1/23127302_01.cpp",
+				"/home/neon/code/zip-cpp-files.sh",
+				"/home/neon/code/NMTH1/BT8/output.out",
+				"/home/neon/code/NMTH1/BT8/input.in",
+				"/home/neon/code/NMTH1/BT8/main.cpp",
+				"/home/neon/code/NMTH1/BT3/main03.cpp",
+				"/home/neon/code/NMTH1/BT6/main.cpp",
+				"/home/neon/code/NMTH1/BT7/output.out",
+				"/home/neon/code/NMTH1/BT7/input.in",
+				"/home/neon/code/NMTH1/BT7/main.cpp",
+				"/home/neon/code/NMTH1/BT6/output.out",
+				"/home/neon/code/NMTH1/BT6/input.in",
+				"/home/neon/code/NMTH1/BT5/output.out",
+				"/home/neon/code/NMTH1/BT5/input.in",
+				"/home/neon/code/NMTH1/BT4/main.cpp",
+				"/home/neon/code/NMTH1/BT4/output.out",
+				"/home/neon/code/NMTH1/BT4/input.in",
+				"/home/neon/code/NMTH1/BT4/main04.cpp",
+				"/home/neon/code/LT2/practice2.1/input.in",
+				"/home/neon/code/LT2/practice2.1/output.out",
+				"/home/neon/code/LT2/practice2.1/23127302_Ex31.cpp",
+				"/home/neon/code/LT2/practice2.1/Fraction.h",
+				"/home/neon/code/LT2/practice2.2/output.out",
+				"/home/neon/code/LT2/practice2.2/input.in",
+				"/home/neon/code/LT2/practice2.2/23127302_Ex32.cpp",
+				"/home/neon/code/LT2/practice2.2/Monomial.h",
+				"/home/neon/code/LT2/practice2.4/output.out",
+				"/home/neon/code/LT2/practice2.4/input.in",
+				"/home/neon/code/LT2/practice2.4/Array.h",
+				"/home/neon/code/LT2/practice2.4/23127302_Ex24.cpp",
+				"/home/neon/code/LT2/practice2.3/23127302_Ex23.cpp",
+				"/home/neon/code/LT2/practice2.2/23127302_Ex22.cpp",
+				"/home/neon/code/LT2/practice2.2/Student.h",
+				"/home/neon/code/output.out",
+				"/home/neon/code/input.in",
+				"/home/neon/code/bug.cpp",
+				"/home/neon/.config/sublime-text/Packages/User/untitled.sublime-build"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/neon/code/NMTH1"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.80764283632,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/C++-debug-manyFiles.sublime-build",
+			"position": "0,1,0,0,0,0,0,1366,725,1366,768,0",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"output.out"
+					],
+					[
+						"23",
+						"23127302_Ex22.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				]
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 7,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/neon/code/LT2/w1.sublime-workspace",
+			"/home/neon/code/release/Hideen.sublime-workspace"
+		]
+	}
+}

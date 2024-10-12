@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"theme": "auto",
+	"font_face": "Comic Mono",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"math_tags": false
+	
+}
